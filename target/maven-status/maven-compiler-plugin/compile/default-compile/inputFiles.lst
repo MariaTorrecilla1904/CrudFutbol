@@ -1,0 +1,16 @@
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\ClubFutbolCrudApplication.java
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\controller\AsociacionController.java
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\controller\ClubController.java
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\controller\CompeticionController.java
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\controller\EntrenadorController.java
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\controller\JugadorController.java
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\entidades\Asociacion.java
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\entidades\Club.java
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\entidades\Competicion.java
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\entidades\Entrenador.java
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\entidades\Jugador.java
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\repository\AsociacionRepository.java
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\repository\ClubRepository.java
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\repository\CompeticionRepository.java
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\repository\EntrenadorRepository.java
+C:\Users\torre\Documents\workspace-spring-tools-for-eclipse-4.32.1.RELEASE\club-futbol-crud\src\main\java\com\example\demo\repository\JugadorRepository.java
