@@ -9,7 +9,7 @@
   <div class="container mt-5">
     <h2 class="mb-4" th:text="${titulo}"></h2>
 
-    <form th:action="@{${guardarUrl}}" th:object="${objeto}" method="post"
+    <form th:action="${guardarUrl}" th:object="${objeto}" method="post"
           class="shadow p-4 bg-white rounded">
 
       <input type="hidden" th:field="*{id}">
@@ -19,7 +19,7 @@
         <input class="form-control" th:field="*{nombre}" required>
       </div>
 
-      <div class="mb-3" th:if="*{#fields.hasErrors('nombre')}">
+      <div class="mb-3" th:if="${#fields.hasErrors('nombre')}">
         <p class="text-danger" th:errors="*{nombre}"></p>
       </div>
 
